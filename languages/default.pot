@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kill-adblock\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2016-02-16 22:57+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ara\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: admin-option.php:11
+msgid "Kill AdBlock Plugin Settings"
+msgstr "اعدادات اضافة Kill AdBlock"
+
+#: admin-option.php:11
+msgid "Kill AdBlock Settings"
+msgstr "اعدادات Kill AdBlock"
+
+#: admin-option.php:36
+msgid "Kill AdBlock"
+msgstr "Kill AdBlock"
+
+#: admin-option.php:43 admin-option.php:45
+msgid "Kill AdBlock Status"
+msgstr "الحالة"
+
+#: admin-option.php:46
+msgid "Enable"
+msgstr "تشغيل"
+
+#: admin-option.php:47
+msgid "Disable"
+msgstr "ايقاف"
+
+#: admin-option.php:52
+msgid "Message"
+msgstr "الرسالة"
+
+#: admin-option.php:55
+msgid "Message When AdBlock is enabled"
+msgstr "الرسالة التي ستظهر للمستخدم اذا كانت ايقاف الإعلان مفعل"
+
+#: admin-option.php:59
+msgid "Message Delay"
+msgstr "ظهور رسالة التحذير بعد"
+
+#: admin-option.php:60
+msgid "Time In Seconds To Show Kill Message"
+msgstr "الوقت بالثواني لظهور رسالة التحذير"
+
+#: admin-option.php:63
+msgid "Display Close Button"
+msgstr "إظهار زر الإغلاق"
+
+#: admin-option.php:66 admin-option.php:75
+msgid "Yes"
+msgstr "نعم"
+
+#: admin-option.php:67 admin-option.php:76
+msgid "No"
+msgstr "لا"
+
+#: admin-option.php:72 admin-option.php:74
+msgid "Close Message Automatically"
+msgstr "اغلاق الرسالة بشكل آلي"
+
+#: admin-option.php:82
+msgid "Close Message Automatically Delay"
+msgstr "اغلاق الرسالة بشكل آلي بعد"
+
+#: admin-option.php:83
+msgid "Time In Seconds and You Should Active Previous  Option"
+msgstr "الوقت بالثواني يجب ان تفعل الخيار السابق"
+
+#: admin-option.php:86 admin-option.php:88
+msgid "Message Type"
+msgstr "شكل الرسالة"
+
+#: admin-option.php:89
+msgid "Sticky Bar"
+msgstr "شريط مثبت"
+
+#: admin-option.php:90
+msgid "Full Screen"
+msgstr "كامل الشاشة"
+
+#: admin-option.php:91
+msgid "Flying Box"
+msgstr "صندوق طائر"
